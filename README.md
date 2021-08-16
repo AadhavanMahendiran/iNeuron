@@ -1,2 +1,2 @@
 # iNeuron
-This is assignment given ineuron classes.
+This assignments are given inineuron classes.
